@@ -1,0 +1,43 @@
+body{
+background-color:#38182F;
+font: normal 15pt blinker;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background-color: #56666B;
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 3px 3px 8px rgb(105, 105, 105);
+    color:white
+    }
+
+footer{
+    color: white;
+    text-align: center;
+    font: italic 15px blinker;
+}
+
+#btn {
+    background-color: white;
+    border-radius: 5px;
+    height: 25px;    
+    font: bold 15px blinker;
+}
+
+#btn:hover {
+    background-color:#cfd2d4;
+    transition: 2s;
+
+}
+
+#txtano{
+    border-radius: 5px;
+    height: 25px;
+}
